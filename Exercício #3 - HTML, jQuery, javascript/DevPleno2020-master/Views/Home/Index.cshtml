@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Lista de Filmes";
+}
+
+<div class="text-center">
+    <h1 class="display-4">@ViewData["Title"]</h1>
+    
+    <form method="post" action="/Home/Enviar">
+        
+       @for (int i = 0; i < ViewBag.Filmes.Count; i++)
+        {
+            var filme = ViewBag.Filmes[i];
+
+        <div class="row" id="filme_@i" style="margin-bottom: 10px;">
+            <div class="col-md-12">
+                <input class="nomeFilme" name="nomeFilmes[@i]" value="@filme"/>
+                <button type="button" data-filmeId="@i" class="btn btn-danger btnRemove">Remover</button>
+            </div>
+        </div>
+
+        }
+        <div id="actions" class="row">
+            <div class="col-md-12">
+                <button id="addFilme" class="btn btn-primary" type="button">Novo</button>
+                <button class="btn btn-success" type="submit">Enviar</button>
+            </div>
+        </div>
+</form>
+</div>

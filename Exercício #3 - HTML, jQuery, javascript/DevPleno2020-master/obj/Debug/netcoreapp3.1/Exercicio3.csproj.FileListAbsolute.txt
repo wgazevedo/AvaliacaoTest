@@ -1,0 +1,72 @@
+C:\Users\PEAQ\source\repos\Exercicio3\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\PEAQ\source\repos\Exercicio3\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\PEAQ\source\repos\Exercicio3\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\PEAQ\source\repos\Exercicio3\bin\Debug\netcoreapp3.1\Exercicio3.exe
+C:\Users\PEAQ\source\repos\Exercicio3\bin\Debug\netcoreapp3.1\Exercicio3.deps.json
+C:\Users\PEAQ\source\repos\Exercicio3\bin\Debug\netcoreapp3.1\Exercicio3.runtimeconfig.json
+C:\Users\PEAQ\source\repos\Exercicio3\bin\Debug\netcoreapp3.1\Exercicio3.runtimeconfig.dev.json
+C:\Users\PEAQ\source\repos\Exercicio3\bin\Debug\netcoreapp3.1\Exercicio3.dll
+C:\Users\PEAQ\source\repos\Exercicio3\bin\Debug\netcoreapp3.1\Exercicio3.pdb
+C:\Users\PEAQ\source\repos\Exercicio3\bin\Debug\netcoreapp3.1\Exercicio3.Views.dll
+C:\Users\PEAQ\source\repos\Exercicio3\bin\Debug\netcoreapp3.1\Exercicio3.Views.pdb
+C:\Users\PEAQ\source\repos\Exercicio3\obj\Debug\netcoreapp3.1\Exercicio3.csprojAssemblyReference.cache
+C:\Users\PEAQ\source\repos\Exercicio3\obj\Debug\netcoreapp3.1\staticwebassets\Exercicio3.StaticWebAssets.Manifest.cache
+C:\Users\PEAQ\source\repos\Exercicio3\obj\Debug\netcoreapp3.1\staticwebassets\Exercicio3.StaticWebAssets.xml
+C:\Users\PEAQ\source\repos\Exercicio3\obj\Debug\netcoreapp3.1\Exercicio3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PEAQ\source\repos\Exercicio3\obj\Debug\netcoreapp3.1\Exercicio3.RazorAssemblyInfo.cache
+C:\Users\PEAQ\source\repos\Exercicio3\obj\Debug\netcoreapp3.1\Exercicio3.RazorAssemblyInfo.cs
+C:\Users\PEAQ\source\repos\Exercicio3\obj\Debug\netcoreapp3.1\Exercicio3.AssemblyInfoInputs.cache
+C:\Users\PEAQ\source\repos\Exercicio3\obj\Debug\netcoreapp3.1\Exercicio3.AssemblyInfo.cs
+C:\Users\PEAQ\source\repos\Exercicio3\obj\Debug\netcoreapp3.1\Exercicio3.TagHelpers.input.cache
+C:\Users\PEAQ\source\repos\Exercicio3\obj\Debug\netcoreapp3.1\Exercicio3.TagHelpers.output.cache
+C:\Users\PEAQ\source\repos\Exercicio3\obj\Debug\netcoreapp3.1\Exercicio3.RazorCoreGenerate.cache
+C:\Users\PEAQ\source\repos\Exercicio3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\PEAQ\source\repos\Exercicio3\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\PEAQ\source\repos\Exercicio3\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\PEAQ\source\repos\Exercicio3\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\PEAQ\source\repos\Exercicio3\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\PEAQ\source\repos\Exercicio3\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\PEAQ\source\repos\Exercicio3\obj\Debug\netcoreapp3.1\Exercicio3.RazorTargetAssemblyInfo.cache
+C:\Users\PEAQ\source\repos\Exercicio3\obj\Debug\netcoreapp3.1\Exercicio3.RazorTargetAssemblyInfo.cs
+C:\Users\PEAQ\source\repos\Exercicio3\obj\Debug\netcoreapp3.1\Exercicio3.Views.pdb
+C:\Users\PEAQ\source\repos\Exercicio3\obj\Debug\netcoreapp3.1\Exercicio3.dll
+C:\Users\PEAQ\source\repos\Exercicio3\obj\Debug\netcoreapp3.1\Exercicio3.pdb
+C:\Users\PEAQ\source\repos\Exercicio3\obj\Debug\netcoreapp3.1\Exercicio3.csproj.CopyComplete
+C:\Users\PEAQ\source\repos\Exercicio3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Enviar.cshtml.g.cs
+C:\Users\UserLocal\Desktop\SysPlan\Exercício #3 - HTML, jQuery, javascript\DevPleno2020-master\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\UserLocal\Desktop\SysPlan\Exercício #3 - HTML, jQuery, javascript\DevPleno2020-master\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\UserLocal\Desktop\SysPlan\Exercício #3 - HTML, jQuery, javascript\DevPleno2020-master\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\UserLocal\Desktop\SysPlan\Exercício #3 - HTML, jQuery, javascript\DevPleno2020-master\bin\Debug\netcoreapp3.1\Exercicio3.exe
+C:\Users\UserLocal\Desktop\SysPlan\Exercício #3 - HTML, jQuery, javascript\DevPleno2020-master\bin\Debug\netcoreapp3.1\Exercicio3.deps.json
+C:\Users\UserLocal\Desktop\SysPlan\Exercício #3 - HTML, jQuery, javascript\DevPleno2020-master\bin\Debug\netcoreapp3.1\Exercicio3.runtimeconfig.json
+C:\Users\UserLocal\Desktop\SysPlan\Exercício #3 - HTML, jQuery, javascript\DevPleno2020-master\bin\Debug\netcoreapp3.1\Exercicio3.runtimeconfig.dev.json
+C:\Users\UserLocal\Desktop\SysPlan\Exercício #3 - HTML, jQuery, javascript\DevPleno2020-master\bin\Debug\netcoreapp3.1\Exercicio3.dll
+C:\Users\UserLocal\Desktop\SysPlan\Exercício #3 - HTML, jQuery, javascript\DevPleno2020-master\bin\Debug\netcoreapp3.1\Exercicio3.pdb
+C:\Users\UserLocal\Desktop\SysPlan\Exercício #3 - HTML, jQuery, javascript\DevPleno2020-master\bin\Debug\netcoreapp3.1\Exercicio3.Views.dll
+C:\Users\UserLocal\Desktop\SysPlan\Exercício #3 - HTML, jQuery, javascript\DevPleno2020-master\bin\Debug\netcoreapp3.1\Exercicio3.Views.pdb
+C:\Users\UserLocal\Desktop\SysPlan\Exercício #3 - HTML, jQuery, javascript\DevPleno2020-master\obj\Debug\netcoreapp3.1\Exercicio3.csprojAssemblyReference.cache
+C:\Users\UserLocal\Desktop\SysPlan\Exercício #3 - HTML, jQuery, javascript\DevPleno2020-master\obj\Debug\netcoreapp3.1\Exercicio3.AssemblyInfoInputs.cache
+C:\Users\UserLocal\Desktop\SysPlan\Exercício #3 - HTML, jQuery, javascript\DevPleno2020-master\obj\Debug\netcoreapp3.1\Exercicio3.AssemblyInfo.cs
+C:\Users\UserLocal\Desktop\SysPlan\Exercício #3 - HTML, jQuery, javascript\DevPleno2020-master\obj\Debug\netcoreapp3.1\Exercicio3.csproj.CoreCompileInputs.cache
+C:\Users\UserLocal\Desktop\SysPlan\Exercício #3 - HTML, jQuery, javascript\DevPleno2020-master\obj\Debug\netcoreapp3.1\Exercicio3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\UserLocal\Desktop\SysPlan\Exercício #3 - HTML, jQuery, javascript\DevPleno2020-master\obj\Debug\netcoreapp3.1\Exercicio3.RazorAssemblyInfo.cache
+C:\Users\UserLocal\Desktop\SysPlan\Exercício #3 - HTML, jQuery, javascript\DevPleno2020-master\obj\Debug\netcoreapp3.1\Exercicio3.RazorAssemblyInfo.cs
+C:\Users\UserLocal\Desktop\SysPlan\Exercício #3 - HTML, jQuery, javascript\DevPleno2020-master\obj\Debug\netcoreapp3.1\Exercicio3.TagHelpers.input.cache
+C:\Users\UserLocal\Desktop\SysPlan\Exercício #3 - HTML, jQuery, javascript\DevPleno2020-master\obj\Debug\netcoreapp3.1\Exercicio3.TagHelpers.output.cache
+C:\Users\UserLocal\Desktop\SysPlan\Exercício #3 - HTML, jQuery, javascript\DevPleno2020-master\obj\Debug\netcoreapp3.1\Exercicio3.RazorCoreGenerate.cache
+C:\Users\UserLocal\Desktop\SysPlan\Exercício #3 - HTML, jQuery, javascript\DevPleno2020-master\obj\Debug\netcoreapp3.1\Razor\Views\Home\Enviar.cshtml.g.cs
+C:\Users\UserLocal\Desktop\SysPlan\Exercício #3 - HTML, jQuery, javascript\DevPleno2020-master\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\UserLocal\Desktop\SysPlan\Exercício #3 - HTML, jQuery, javascript\DevPleno2020-master\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\UserLocal\Desktop\SysPlan\Exercício #3 - HTML, jQuery, javascript\DevPleno2020-master\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\UserLocal\Desktop\SysPlan\Exercício #3 - HTML, jQuery, javascript\DevPleno2020-master\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\UserLocal\Desktop\SysPlan\Exercício #3 - HTML, jQuery, javascript\DevPleno2020-master\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\UserLocal\Desktop\SysPlan\Exercício #3 - HTML, jQuery, javascript\DevPleno2020-master\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\UserLocal\Desktop\SysPlan\Exercício #3 - HTML, jQuery, javascript\DevPleno2020-master\obj\Debug\netcoreapp3.1\Exercicio3.RazorTargetAssemblyInfo.cache
+C:\Users\UserLocal\Desktop\SysPlan\Exercício #3 - HTML, jQuery, javascript\DevPleno2020-master\obj\Debug\netcoreapp3.1\Exercicio3.RazorTargetAssemblyInfo.cs
+C:\Users\UserLocal\Desktop\SysPlan\Exercício #3 - HTML, jQuery, javascript\DevPleno2020-master\obj\Debug\netcoreapp3.1\Exercicio3.Views.pdb
+C:\Users\UserLocal\Desktop\SysPlan\Exercício #3 - HTML, jQuery, javascript\DevPleno2020-master\obj\Debug\netcoreapp3.1\staticwebassets\Exercicio3.StaticWebAssets.Manifest.cache
+C:\Users\UserLocal\Desktop\SysPlan\Exercício #3 - HTML, jQuery, javascript\DevPleno2020-master\obj\Debug\netcoreapp3.1\staticwebassets\Exercicio3.StaticWebAssets.xml
+C:\Users\UserLocal\Desktop\SysPlan\Exercício #3 - HTML, jQuery, javascript\DevPleno2020-master\obj\Debug\netcoreapp3.1\Exercicio3.dll
+C:\Users\UserLocal\Desktop\SysPlan\Exercício #3 - HTML, jQuery, javascript\DevPleno2020-master\obj\Debug\netcoreapp3.1\Exercicio3.pdb
+C:\Users\UserLocal\Desktop\SysPlan\Exercício #3 - HTML, jQuery, javascript\DevPleno2020-master\obj\Debug\netcoreapp3.1\Exercicio3.genruntimeconfig.cache
+C:\Users\UserLocal\Desktop\SysPlan\Exercício #3 - HTML, jQuery, javascript\DevPleno2020-master\obj\Debug\netcoreapp3.1\Exercicio3.csproj.CopyComplete
