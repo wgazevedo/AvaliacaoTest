@@ -8,6 +8,6 @@ namespace Exercicio1.Library.Models
     {
         public string Name { get; set; }
         public string City { get; set; }
-        public float Age { get; set; }
+        public decimal Age { get; set; }
     }
 }

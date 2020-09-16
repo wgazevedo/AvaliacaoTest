@@ -1,7 +1,4 @@
 ﻿using Newtonsoft.Json;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Exercicio1.Library.Models
 {
@@ -10,6 +7,6 @@ namespace Exercicio1.Library.Models
         [JsonProperty("cidade")]
         public string City { get; set; }
         [JsonProperty("idade")]
-        public float Age { get; set; }
+        public decimal Age { get; set; }
     }
 }

@@ -1,23 +1,22 @@
+﻿using Exercicio1.Structure.Service;
+using Microsoft.Extensions.DependencyInjection;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using System.Windows.Forms;
 
-namespace Exercicio1.Console
+namespace Exercicio1.ConsoleApp
 {
-    static class Program
+    class Program
     {
-        /// <summary>
-        ///  The main entry point for the application.
-        /// </summary>
-        [STAThread]
-        static void Main()
+        static void Main(string[] args)
         {
-            Application.SetHighDpiMode(HighDpiMode.SystemAware);
-            Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            var collection = new ServiceCollection();
+            collection.AddScoped<IServiceAPI, Exercicio1.ServiceAPI.ServiceAPI>();
+            var serviceProvider = collection.BuildServiceProvider();
+
+            var service = new Service(serviceProvider.GetService<IServiceAPI>());
+
+            service.Run();
+
+            Console.ReadKey();
         }
     }
 }
