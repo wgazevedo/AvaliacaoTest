@@ -1,15 +1,7 @@
 .vs/*
-bin/*
-/Exercício #1 - C#/.vs
-/Exercício #1 - C#/Exercicio1/.vs/Exercicio1/v16
-/Exercício #1 - C#/Exercicio1/Exercicio1.Business/bin/Debug/netcoreapp3.1
-/Exercício #1 - C#/Exercicio1/Exercicio1.Business/obj
-/Exercício #1 - C#/Exercicio1/Exercicio1.Console/bin/Debug/netcoreapp3.1
-/Exercício #1 - C#/Exercicio1/Exercicio1.Console/obj
-/Exercício #1 - C#/Exercicio1/Exercicio1.Library/bin/Debug/netcoreapp3.1
-/Exercício #1 - C#/Exercicio1/Exercicio1.Library/obj
-/Exercício #1 - C#/Exercicio1/Exercicio1.ServiceAPI/bin/Debug/netcoreapp3.1
-/Exercício #1 - C#/Exercicio1/Exercicio1.ServiceAPI/obj
-/Exercício #1 - C#/Exercicio1/Exercicio1.Structure/bin/Debug/netcoreapp3.1
-/Exercício #1 - C#/Exercicio1/Exercicio1.Structure/obj
-/Exercício #1 - C#/Exercicio1/.vs/Exercicio1/DesignTimeBuild
+*bin/*
+*bin/
+
+*.vs
+*obj/*
+*obj/
