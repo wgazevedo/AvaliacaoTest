@@ -5,7 +5,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Repository\" />
+    <PackageReference Include="NHibernate" Version="5.3.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Exercicio4.Library\Exercicio4.Library.csproj" />
+    <ProjectReference Include="..\Exercicio4.Structure\Exercicio4.Data.Structure.csproj" />
   </ItemGroup>
 
 </Project>

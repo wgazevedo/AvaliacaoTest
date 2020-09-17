@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Exercicio4.Business.Components;
+using Exercicio4.Library.Entities;
 using Microsoft.AspNetCore.Mvc;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
@@ -12,36 +14,21 @@ namespace Exercicio4.API.Controllers
     [ApiController]
     public class BookController : ControllerBase
     {
-        // GET: api/<BookController>
+        private readonly BookComponent component;
+
         [HttpGet]
-        public IEnumerable<string> Get()
-        {
-            return new string[] { "value1", "value2" };
-        }
+        public async Task<IEnumerable<Book>> GetAsync() => await component.GetAllAsync();
 
-        // GET api/<BookController>/5
         [HttpGet("{id}")]
-        public string Get(int id)
-        {
-            return "value";
-        }
+        public async Task<Book> GetAsync(Guid id) => await component.GetByIdAsync(id);
 
-        // POST api/<BookController>
         [HttpPost]
-        public void Post([FromBody] string value)
-        {
-        }
+        public void Post([FromBody] Book book) => component.Insert(book);
 
-        // PUT api/<BookController>/5
         [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
-        {
-        }
+        public void Put(Guid id, [FromBody] Book book) => component.Update(id, book);
 
-        // DELETE api/<BookController>/5
         [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
-        }
+        public void Delete(Guid id) => component.Delete(id);
     }
 }

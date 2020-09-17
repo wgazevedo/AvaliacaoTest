@@ -28,7 +28,7 @@ namespace Exercicio4.API
         {
             services.AddControllers();
 
-            services.AddDbContext<EntityContext>(op => op.UsePos(Configuration.GetConnectionString("AvaliacaoTec")));
+            services.AddNHibernate(Configuration.GetConnectionString("DefaultConnection"));
 
             services.AddSwaggerGen(c =>
             {

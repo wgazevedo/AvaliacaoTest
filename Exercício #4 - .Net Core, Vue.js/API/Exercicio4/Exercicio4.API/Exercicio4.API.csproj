@@ -9,5 +9,10 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="5.5.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Exercicio4.Business\Exercicio4.Business.csproj" />
+    <ProjectReference Include="..\Exercicio4.DataPostgreSQL\Exercicio4.DataPostgreSQL.csproj" />
+  </ItemGroup>
+
 
 </Project>

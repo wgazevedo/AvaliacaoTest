@@ -1,4 +1,7 @@
-﻿using Microsoft.Extensions.DependencyInjection;
+﻿using Exercicio4.Data.Structure.Repository;
+using Exercicio4.DataPostgreSQL.Context;
+using Exercicio4.DataPostgreSQL.Repository;
+using Microsoft.Extensions.DependencyInjection;
 using NHibernate.Cfg;
 using NHibernate.Cfg.MappingSchema;
 using NHibernate.Dialect;
@@ -34,7 +37,8 @@ namespace Exercicio4.API
 
             services.AddSingleton(sessionFactory);
             services.AddScoped(factory => sessionFactory.OpenSession());
-            services.AddScoped<IMapperSession, NHibernateMapperSession>();
+            services.AddScoped<IAuthorRepository, AuthorRepository>();
+            services.AddScoped<IBookRepository, BookRepository>();
 
             return services;
         }
