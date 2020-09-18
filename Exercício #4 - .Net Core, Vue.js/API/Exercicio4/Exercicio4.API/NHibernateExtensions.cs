@@ -1,15 +1,10 @@
 ﻿using Exercicio4.Data.Structure.Repository;
-using Exercicio4.DataPostgreSQL.Context;
 using Exercicio4.DataPostgreSQL.Repository;
 using Microsoft.Extensions.DependencyInjection;
 using NHibernate.Cfg;
 using NHibernate.Cfg.MappingSchema;
 using NHibernate.Dialect;
 using NHibernate.Mapping.ByCode;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace Exercicio4.API
 {
@@ -24,7 +19,7 @@ namespace Exercicio4.API
             var configuration = new Configuration();
             configuration.DataBaseIntegration(c =>
             {
-                c.Dialect<MsSql2012Dialect>();
+                c.Dialect<PostgreSQLDialect>();
                 c.ConnectionString = connectionString;
                 c.KeywordsAutoImport = Hbm2DDLKeyWords.AutoQuote;
                 c.SchemaAction = SchemaAutoAction.Validate;

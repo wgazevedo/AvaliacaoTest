@@ -16,6 +16,11 @@ namespace Exercicio4.API.Controllers
     {
         private readonly AuthorComponent component;
 
+        public AuthorController(AuthorComponent component)
+        {
+            this.component = component;
+        }
+
         [HttpGet]
         public async Task<IEnumerable<Author>> GetAsync() => await component.GetAllAsync();
 

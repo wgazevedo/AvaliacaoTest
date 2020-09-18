@@ -25,6 +25,7 @@ namespace Exercicio4.DataPostgreSQL.Mapping
                 x.Length(200);
                 x.Type(NHibernateUtil.StringClob);
                 x.NotNullable(true);
+                x.Column("Name");
             });
 
             Table("Authors");

@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Exercicio4.Business.Components;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -30,15 +31,9 @@ namespace Exercicio4.API
 
             services.AddNHibernate(Configuration.GetConnectionString("DefaultConnection"));
 
-            services.AddSwaggerGen(c =>
-            {
-                c.SwaggerDoc("v1", new OpenApiInfo
-                {
-                    Version = "v1",
-                    Title = "Bookstore API",
-                    Description = "A exercise example ASP.NET Core Web API",
-                });
-            });
+
+            ConfigureSwagger(services);
+            ConfigureComponents(services);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -72,5 +67,33 @@ namespace Exercicio4.API
             });
 
         }
+
+        /// <summary>
+        /// Configuring Swagger
+        /// </summary>
+        /// <param name="services"></param>
+        public void ConfigureSwagger(IServiceCollection services)
+        {
+            services.AddSwaggerGen(c =>
+            {
+                c.SwaggerDoc("v1", new OpenApiInfo
+                {
+                    Version = "v1",
+                    Title = "Bookstore API",
+                    Description = "A exercise example ASP.NET Core Web API",
+                });
+            });
+        }
+
+        /// <summary>
+        /// Configures all dependency injections for business components
+        /// </summary>
+        /// <param name="services"></param>
+        public void ConfigureComponents(IServiceCollection services)
+        {
+            services.AddScoped<AuthorComponent>();
+            services.AddScoped<BookComponent>();
+        }
+
     }
 }
